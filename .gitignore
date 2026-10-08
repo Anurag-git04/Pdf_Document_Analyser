@@ -1,0 +1,19 @@
+# .gitignore
+
+# Python virtual environment
+venv/
+.venv/
+
+# Environment variables
+# This is the most important line for security!
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / Editor folders
+.idea/
+.vscode/

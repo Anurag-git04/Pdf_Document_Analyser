@@ -1,0 +1,19 @@
+# requirements.txt
+
+# Core PDF and NLP
+streamlit>=1.28.0
+PyMuPDF>=1.23.0
+spacy>=3.6.0
+transformers>=4.30.0
+torch>=2.0.0
+Pillow>=10.0.0
+
+# Summarization
+bert-extractive-summarizer
+
+# Groq LLM Integration
+groq
+python-dotenv
+
+# UI Highlighting
+spacy-streamlit
